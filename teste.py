@@ -56,5 +56,3 @@ if home01 == 5:
     print("You won the game.")
 else:
     print("The bot won the game.")
-
-
